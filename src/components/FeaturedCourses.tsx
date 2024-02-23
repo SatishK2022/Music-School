@@ -20,7 +20,7 @@ export default function FeaturedCourses() {
   );
 
   return (
-    <div className="py-10 bg-gray-800">
+    <div className="py-20 bg-gray-800">
       <div>
         <div className="text-center">
           <h2 className="text-base uppercase text-teal-400 font-semibold tracking-wide">
