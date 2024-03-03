@@ -42,7 +42,7 @@ export default function TestimonialCards() {
           Hear Our Harmony: Voices of Success
         </h2>
         <div className="flex justify-center w-full overflow-hidden">
-          <div className="w-full max-w-sm md:max-w-6xl">
+          <div className="w-full max-w-sm md:max-w-md lg:max-w-7xl">
             <InfiniteMovingCards
               items={musicSchoolTestimonials}
               direction="right"
